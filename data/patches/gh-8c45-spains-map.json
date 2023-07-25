@@ -1,0 +1,56 @@
+{
+	"id": -1,
+	"name": "Spain's Map",
+	"description": "The map of Spain had several changes and divisions. Catalonia, Basque Country and Galicia started creating boundaries early and painting their flags. The bottom red bar of the Spanish flag tried to become purple to represent the Republican Flag. And then most of the regions started adding their boundaries and flags. At the end The Catalonia flag added the independence white star on the flag, which extended further than the region, and Basque Country took part of France and Navarra. Madrid was on the way to become a black hole in the middle of the map. No other country on the map had this many divisions. ",
+	"links": {},
+	"path": {
+		"254": [
+			[
+				-304,
+				779
+			],
+			[
+				-337,
+				779
+			],
+			[
+				-337,
+				788
+			],
+			[
+				-327,
+				789
+			],
+			[
+				-335,
+				815
+			],
+			[
+				-329,
+				822
+			],
+			[
+				-306,
+				817
+			],
+			[
+				-288,
+				798
+			],
+			[
+				-290,
+				789
+			],
+			[
+				-299,
+				788
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-312,
+			799
+		]
+	}
+}
